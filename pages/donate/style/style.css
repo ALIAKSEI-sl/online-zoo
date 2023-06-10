@@ -1,0 +1,7 @@
+@import url(style-1600px.css) (min-width: 1600px);
+@import url(style-1001-1599.css) (min-width: 1001px) and (max-width: 1599px);
+@import url(style-1000px.css) (width: 1000px);
+@import url(style-641-999.css) (min-width: 641px) and (max-width: 999px);
+@import url(style-640px.css) (width: 640px);
+@import url(style-321-639.css) (min-width: 321px) and (max-width: 639px);
+@import url(style-320px.css) (max-width: 320px);
